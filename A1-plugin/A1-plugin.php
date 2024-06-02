@@ -50,4 +50,7 @@
     
     // deactiveer
     register_deactivation_hook( __FILE__, array( $a1plugin , 'deactivate') );
+
+    //uninstall
+    register_uninstall_hook( __FILE__, array( $a1plugin , 'uninstall') );
 ?>
