@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: A1-plugin
-Plugin URI: https://31918.hosts1.ma-cloud.nl/Annemiek/
+Plugin URI: https://annemiekluistert.nl/
 Description: This is a plugin made by team A1
 Version: 1.1.3
 Author: team A1
